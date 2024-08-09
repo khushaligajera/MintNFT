@@ -1,2 +1,0 @@
-# MintNFT
-NFT minting.
